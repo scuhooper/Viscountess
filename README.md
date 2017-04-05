@@ -1,3 +1,9 @@
+# Video Highlight
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fn04_Soot_E" frameborder="0" allowfullscreen></iframe> 
+
+<br />
+<hr>
+
 # Prominent Features
 ## Rocket Pickups
 For a more powerful weapon, I thought it would be fun to have a collectible power-up that allowed the player to destroy enemy ships in a single attack. Thus, packs of 5 missiles began to float through space. The missiles are spawned at a variable time rate and start at random locations. The missiles provide a significant boost to firepower, but collecting them can sometimes mean having to blast your way through lines of enemy ships where the threat of colliding with one becomes quite substantial.
